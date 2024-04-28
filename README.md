@@ -10,7 +10,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaydevalla&label=Profile%20views&color=0e75b6&style=flat" alt="vijaydevalla" /> </p>
 
 - 🔭 I’m currently **seeking full time roles in the field of Data Science and Analytics**
-
 - 🌱 I’m currently learning **Generative Adversarial Networks (GANs) or Variational Autoencoders (VAEs),Pose Estimation Models**
 
 - 👯 I’m looking to collaborate on **Data Science and Analytics Projects**

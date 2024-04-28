@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vijay Kumar Devalla</h1>
 <h3 align="center">Passionate about data analysis and driving informed decisions</h3>
-<img align="right" alt="Coding" width="400" src="[/Users/vijaykumardevalla/Downloads/dsda-gif.gif](https://images.app.goo.gl/K1YqiQPLi69EDqth9)”>
+![Coding](https://github.com/vijaydevalla/vijaydevalla/blob/main/dsda-gif.gif)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijaydevalla&label=Profile%20views&color=0e75b6&style=flat" alt="vijaydevalla" /> </p>

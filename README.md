@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Vijay Kumar Devalla</h1>
+<h1 align="center">Hi 👋, I'm Vijay D</h1>
 
-## Why I Pursued Data Science and Analytics?
+## Why I Pursued Data Analytics?
 My journey into the realm of data science and analytics began with a simple curiosity: how does the digital world seem to read our minds? It all started when planning a trip to Kashmir during my undergrad. I found myself immersed in the vibrant culture, even before setting foot there, thanks to the personalized digital trails of images and suggestions painting my social feeds and influencing my Google searches. This digital echo of my interests followed me, subtly crafting a bespoke online experience that made shopping feel like a breeze, with ads and options tailored just for me.
 
 This was my eureka moment — the realization that behind every seamless online experience, there's a complex, fascinating network of data and algorithms at play. The power of data to make life more convenient, to predict needs, and to tailor experiences sparked a fire in me. I wanted to be part of the magic, to not just understand the 'how' but to innovate the 'what' and 'why'. That's why I'm here, at the intersection of data and desire, ready to turn curiosity into strategy, insights into action. Let's unravel the stories hidden in data together.
